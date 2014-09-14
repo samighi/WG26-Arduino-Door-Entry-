@@ -10,7 +10,7 @@ This system requires a Raspberry Pi USB connected to an Arduino. This is current
 
 Requirements 
 ========================
-- Github INO
+- Github INO http://inotool.org
 - Create a WG26 directory or something similar
 - clone the repo to WG26
 - copy Arduino to the PI 
